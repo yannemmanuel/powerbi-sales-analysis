@@ -69,7 +69,10 @@ Filtres interactifs :
 
 * `Dashboard Hyper Marché.pbix` — fichier Power BI
 * `/images/` — captures du tableau de bord
-* `/data/` (optionnel) — dataset traduit
+
+<img width="590" height="333" alt="Capture 2" src="https://github.com/user-attachments/assets/2173d5da-ac42-45b2-90e2-61c756ac95d3" />
+<img width="590" height="334" alt="Capture 1" src="https://github.com/user-attachments/assets/ce821ed2-afea-4e26-8593-4f4b9adb1c5d" />
+<img width="589" height="335" alt="Capture 3" src="https://github.com/user-attachments/assets/7e93383e-8b30-40ae-b9de-36b55de2e76c" />
 
 ---
 
